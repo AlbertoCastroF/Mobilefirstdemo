@@ -1,0 +1,7 @@
+.tables-container {
+ justify-content: space-evenly;
+}
+
+.plans-container--slider {
+ overflow-x: initial;
+}

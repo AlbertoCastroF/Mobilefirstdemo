@@ -1,0 +1,20 @@
+.tables-container {
+ width: 930px;
+ justify-content: space-evenly;
+ margin: 0 auto;
+}
+
+.producto-cards--container {
+ display: flex;
+ flex-wrap: wrap;
+ width: 930px;
+ margin: 0 auto;
+}
+
+.plans-container--slider {
+ justify-content: center;
+ overflow-x: initial;
+}
+
+
+
